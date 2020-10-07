@@ -1,0 +1,225 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="3D639A67-0C82-4C9F-8EFE-6EBA0BCA4E41" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="1227" mobileScreenScale="0">
+  <controls controlCount="23">
+    <control controlID="04879562-0E03-46A3-9C65-A29FD8F923FF" controlTypeID="BrowserWindow" x="0" y="0" w="1100" h="1227" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Mockplus%0D%0Ahttps%3A%2F%2Fwww.wildlifeencounters.org</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="420D6F7A-2B16-4DC1-88EB-49DAB7AA37BC" controlTypeID="Image" x="0" y="73" w="1100" h="102" zOrder="1">
+      <URL>57652C44E5D6DF0311BC85E55651D1E8.PNG</URL>
+    </control>
+    <control controlID="58EACAE7-0171-4B3B-9B0B-55B54B7D6E88" controlTypeID="Button" x="108" y="110" w="107" h="28" zOrder="2">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>EVENTS</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="AFDA7C8C-CDDF-47AE-BAAF-6683930FDF27" controlTypeID="Button" x="217" y="110" w="115" h="28" zOrder="3">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>ANIMAL+RESCUE</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="A539E776-4EB9-4431-B235-2ECB34A95E50" controlTypeID="Button" x="334" y="110" w="107" h="28" zOrder="4">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SOCIAL</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="C4EED452-5EF7-49B0-B957-5899DB694C98" controlTypeID="Button" x="638" y="110" w="87" h="28" zOrder="5">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D1A4136E-1575-4724-BDA4-372CA76E1324" linkType="ltPageLink" isApplyIncludePage="False" title="FAQ">
+          <area shape="0" alt="" ID="{BE5F7CFE-24A6-4726-A597-92ACFFC1452A}" coords="(0,0,87,28)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>FAQ</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="35CA4579-08A7-4DF1-92B0-69B4057C0D62" controlTypeID="Button" x="730" y="110" w="89" h="28" zOrder="6">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>CONTACT+US</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="CDC6ED96-E59E-4EFB-BB17-A11A7AD91421" controlTypeID="Button" x="824" y="110" w="87" h="28" zOrder="7">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>DONATE</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="34D5F5E1-B735-4AAB-A4B2-40B2BC91DC99" controlTypeID="Label" x="378" y="232" w="347" h="54" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Schedule+An+Event</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="91969543-A0EF-4536-8AAA-104D4F8DDBD7" controlTypeID="TextArea" x="58" y="380" w="417" h="321" zOrder="9">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1.+Donec+augue+enim%2C+volutpat+at+ligula+et%2C+dictum+laoreet+sapien.+%0D%0A%0D%0A2.+Sed+maximus+feugiat+tincidunt.+Vestibulum+ante+ipsum+primis+in+faucibus+orci+luctus+et+ultrices+posuere+cubilia+Curae.%0D%0A%0D%0A3.+Nulla+eu+mollis+leo%2C+eu+elementum+nisl.+Curabitur+cursus+turpis+nibh%2C+egestas+efficitur+diam+tristique+non.+%0D%0A%0D%0A4.+Proin+faucibus+erat+ligula%2C+nec+interdum+odio+rhoncus+vel.+%0D%0A%0D%0A5.+Nulla+facilisi.+Nulla+vehicula+felis+lorem%2C+sed+molestie+lacus+maximus+quis.+%0D%0A</text>
+      <textSize>16</textSize>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DBD5E75C-824E-4665-B713-890F7DBFD8FC" controlTypeID="Label" x="144" y="338" w="245" h="27" zOrder="10">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>How+To+Use+the+Scheduler</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="34EEC434-3086-4E21-986C-78047547844D" controlTypeID="Tab" x="511" y="325" w="535" h="120" zOrder="11">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7FE8B224-556F-475D-81A0-E074DE2FADAB" linkType="ltPageLink" isApplyIncludePage="False" title="CHOOSE">
+          <area shape="0" alt="" ID="{688B9B0C-9C86-4406-8D6B-DB1A952271B2}" coords="(0,0,170,26)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>CHOOSE</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <tabHeight>26</tabHeight>
+      <tabWidth>170</tabWidth>
+    </control>
+    <control controlID="678E2DFE-5C7C-4F3D-ACB4-D06FD0A5835A" controlTypeID="ScrollView" x="511" y="352" w="535" h="367" zOrder="12">
+      <groupChildrenDescriptors>
+        <control controlID="6E486712-29FF-4B7F-8E18-74BCCFBD8778" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="535" h="594" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="A60311B5-C7B7-4B38-AB2F-6F0D712A8CF1" controlTypeID="Calendar" x="60" y="10" w="416" h="347" zOrder="0"/>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="A636F7CA-6427-4B10-A217-F1E29D0874C8" controlTypeID="Border" x="0" y="0" w="535" h="367" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <canHoriScroll>True</canHoriScroll>
+    </control>
+    <control controlID="F7D9A4C4-61A3-473B-966D-78C1BC6090E3" controlTypeID="Label" x="353" y="758" w="368" h="54" zOrder="13">
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Common+Questions</text>
+      <textSize>40</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="283824F4-3945-4E04-83DA-0F632B50CE59" controlTypeID="Accordion" x="144" y="831" w="803" h="245" zOrder="14">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Question+1%0D%0A-+Answer+to+Question+1%0D%0AQuestion+2+%0D%0A-+Answer+to+Question+2%0D%0AQuestion+3%0D%0A-+Answer+to+Question+3%0D%0AQuestion+4%0D%0A-+Answer+to+Question+4</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>4</selectedIndex>
+    </control>
+    <control controlID="5A129620-F9A5-4221-8774-5D7C1C5AEE72" controlTypeID="Label" x="144" y="1105" w="413" h="22" zOrder="15">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D1A4136E-1575-4724-BDA4-372CA76E1324" linkType="ltPageLink" isApplyIncludePage="False" title="FAQ">
+          <area shape="0" alt="" ID="{C0DB8E3B-9DB7-4C72-B572-39E8D26CA900}" coords="(0,0,413,22)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Couldn't+find+your+question%3F+Visit+our+++++++++for+further+help.</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7B4C165B-CD4F-42EA-BE6B-9E6369129F22" controlTypeID="Label" x="413" y="1105" w="29" h="22" zOrder="16">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D1A4136E-1575-4724-BDA4-372CA76E1324" linkType="ltPageLink" isApplyIncludePage="False" title="FAQ">
+          <area shape="0" alt="" ID="{23C8AFFD-A6F3-4E02-9DFE-984454AC5D64}" coords="(0,0,29,22)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>FAQ</text>
+      <textColor>4278190335</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="242615E4-EF4C-4A8F-9AC1-ABAB2E1A9141" controlTypeID="Shape" x="474" y="91" w="154" h="74" zOrder="17">
+      <color>352321535</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="314189A6-8683-4287-8BAE-41DF076A1742" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{89909493-3E27-4F74-BE97-E1EBFD7A62C1}" coords="(0,0,154,74)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8C61B90C-FC01-4AE4-92F0-F0679BCCC056" controlTypeID="Shape" x="766" y="527" w="40" h="40" zOrder="18">
+      <color>16777215</color>
+      <borderColor>4281545523</borderColor>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <thickness>3</thickness>
+    </control>
+    <control controlID="475A908E-951C-40D4-AE31-6EF440310C15" controlTypeID="List" x="806" y="527" w="113" h="158" zOrder="19">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="9%3A00+AM.">
+          <area shape="0" alt="" ID="{A7F0235F-5BFC-4938-993A-6689C0F1CB14}" coords="(1,1,112,26)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="12%3A00+PM.">
+          <area shape="0" alt="" ID="{D93F63E7-7CA6-4C02-B391-F5AE76CD47DC}" coords="(1,26,112,51)"/>
+        </link>
+        <link targetPageID="A41B2DB5-7C8D-41BA-8B13-7043E5F28D66" linkType="ltPageLink" isApplyIncludePage="False" title="3%3A00+PM.">
+          <area shape="0" alt="" ID="{B3B049ED-6EF1-4ECD-A993-62E60B5DF022}" coords="(1,51,112,76)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="5%3A00+PM.">
+          <area shape="0" alt="" ID="{9A36C7A4-D6A8-40A1-8879-006D063D656E}" coords="(1,76,112,101)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>9%3A00+AM.%0D%0A12%3A00+PM.%0D%0A3%3A00+PM.%0D%0A5%3A00+PM.</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

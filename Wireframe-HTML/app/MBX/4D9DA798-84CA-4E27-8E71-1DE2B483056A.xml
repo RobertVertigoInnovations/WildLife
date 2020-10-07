@@ -1,0 +1,46 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="FA6D05F1-A640-41AA-9413-972D6E9A310E" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="856" mobileScreenScale="0">
+  <controls controlCount="4">
+    <control controlID="04879562-0E03-46A3-9C65-A29FD8F923FF" controlTypeID="BrowserWindow" x="0" y="0" w="1100" h="856" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Mockplus%0D%0Ahttps%3A%2F%2Fwww.paypal.com</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1C5B264F-E721-4960-B02C-B21E8BD1758F" controlTypeID="Image" x="0" y="69" w="1100" h="732" zOrder="1">
+      <URL>45CE3CFA6FFCDBA9BC8A405326F595D9.png</URL>
+    </control>
+    <control controlID="495855FF-D320-4735-B63C-595FC0390C77" controlTypeID="TextArea" x="486" y="584" w="460" h="117" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6F1020B3-D832-4C38-B312-FC6B346116F0" linkType="ltPageLink" isApplyIncludePage="False" title="Confirmed!">
+          <area shape="0" alt="" ID="{DBA4F2C0-0EF8-4A4A-A2DE-D64B3EE79A08}" coords="(0,0,460,117)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>*+Client+goes+through+sign+in%2Fcheckout%2C+auto+redirects+upon+completion</text>
+      <textSize>28</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="AE649A52-73C6-4549-B6CD-1B41FBCA7D47" controlTypeID="Button" x="666" y="701" w="201" h="49" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="6F1020B3-D832-4C38-B312-FC6B346116F0" linkType="ltPageLink" isApplyIncludePage="False" title="Confirmed!">
+          <area shape="0" alt="" ID="{BE6EE14A-071A-4F2F-BBEB-F925CF5D7DB9}" coords="(0,0,201,49)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Click+here+to+redirect</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

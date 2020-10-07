@@ -1,0 +1,147 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="49B270EB-FA04-48EA-B7B4-15244080A844" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="2904" mobileScreenScale="0">
+  <controls controlCount="15">
+    <control controlID="E4648AB8-6765-4BC4-93B9-2F5E77F61C4F" controlTypeID="BrowserWindow" x="0" y="0" w="1100" h="2904" zOrder="0">
+      <verticalScrollbarShow>True</verticalScrollbarShow>
+      <verticalScrollbarProgress>10</verticalScrollbarProgress>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Mockplus%0D%0Ahttps%3A%2F%2Fwww.wildlifeencounters.org</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="964235D2-86F4-44F7-AC0D-384C6F1C6CC5" controlTypeID="Image" x="0" y="73" w="1100" h="625" zOrder="1">
+      <URL>9E2947AF6323EE0F382A5C790931BDCE.PNG</URL>
+    </control>
+    <control controlID="CFE72B1D-47FD-441D-9BB5-E37C0DA9A6C6" controlTypeID="Image" x="0" y="698" w="1100" h="415" zOrder="2">
+      <URL>95AA43884B05117D17AD3044D4C8D509.PNG</URL>
+    </control>
+    <control controlID="DE84A549-CE0A-462D-993D-871A39006306" controlTypeID="Image" x="0" y="1113" w="1100" h="327" zOrder="3">
+      <URL>5B5CFB79E4E5E7276283857B3326867A.PNG</URL>
+    </control>
+    <control controlID="666D28F1-9AC1-4F0F-B56E-FAC647536FD6" controlTypeID="Image" x="0" y="1440" w="1100" h="488" zOrder="4">
+      <URL>3BBC4739090E815A23295EF375AFED54.PNG</URL>
+    </control>
+    <control controlID="54EECEC1-A8E0-47B5-8B9D-D7D43F14DA77" controlTypeID="Image" x="0" y="1927" w="1100" h="488" zOrder="5">
+      <URL>0A4D1EFF7D93F4B310321B5A6ADA5953.PNG</URL>
+    </control>
+    <control controlID="1BE780FB-F074-420D-A701-0D76F6668A59" controlTypeID="Image" x="0" y="2415" w="1100" h="489" zOrder="6">
+      <URL>A79F7758F38214F7AB121157336BCBAA.PNG</URL>
+    </control>
+    <control controlID="2F209468-A9C5-43C5-AA6E-2BE4BCC2B06F" controlTypeID="Button" x="108" y="110" w="107" h="28" zOrder="7">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>EVENTS</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="A48F3F2E-4439-4FAC-A572-6689E3798AA8" controlTypeID="Button" x="217" y="110" w="115" h="28" zOrder="8">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>ANIMAL+RESCUE</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="81321EE6-15C9-485B-9945-A49FC03D09C8" controlTypeID="Button" x="334" y="110" w="107" h="28" zOrder="9">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SOCIAL</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="804831C1-EF6D-49A5-878E-F206CFA92845" controlTypeID="Button" x="638" y="110" w="87" h="28" zOrder="10">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>FAQ</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="C269F020-CFE0-447D-89A4-95BA9C12E788" controlTypeID="Button" x="730" y="110" w="90" h="28" zOrder="11">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>CONTACT+US</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="0B5CF6F6-2598-405F-AFED-E05A6111C6C3" controlTypeID="Button" x="824" y="110" w="87" h="28" zOrder="12">
+      <color>4278190080</color>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>DONATE</text>
+      <textColor>4294967295</textColor>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="DF8BCCAC-3003-418D-8374-1A2D7A38C1C9" controlTypeID="List" x="108" y="138" w="200" h="187" zOrder="13">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7FE8B224-556F-475D-81A0-E074DE2FADAB" linkType="ltPageLink" isApplyIncludePage="False" title="SCHEDULE+AN+EVENT">
+          <area shape="0" alt="" ID="{3DCC6F12-33BE-4CE8-8CB3-30483223EAD4}" coords="(1,1,199,26)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="BIRTHDAY+PARTIES">
+          <area shape="0" alt="" ID="{D1CC1E2C-8182-4963-9A7E-3E54B2686CBE}" coords="(1,26,199,51)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="LIBRARY+SUMMER+READING">
+          <area shape="0" alt="" ID="{5586AB68-A918-4226-918B-DDAEEE2582E4}" coords="(1,51,199,76)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="SCHOOL+PROGRAMS">
+          <area shape="0" alt="" ID="{7E021671-8543-47EA-8532-F64DFC75E186}" coords="(1,76,199,101)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="CORPORATE+EVENTS">
+          <area shape="0" alt="" ID="{700A192F-9105-4001-9290-EB2DB2527184}" coords="(1,101,199,126)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="WORKSHOPS">
+          <area shape="0" alt="" ID="{88489226-4346-416A-B8AD-4E1B5725DFCA}" coords="(1,126,199,151)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="SCOUT+PROGRAMS">
+          <area shape="0" alt="" ID="{A7D96BEB-B645-4D16-947C-56E1F518BA9B}" coords="(1,151,199,176)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="VACATION+BIBLE+SCHOOL">
+          <area shape="0" alt="" ID="{F4165883-B4A4-42BF-BBAF-FA83F3A3A78F}" coords="(1,176,199,187)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SCHEDULE+AN+EVENT%0D%0ABIRTHDAY+PARTIES%0D%0ALIBRARY+SUMMER+READING%0D%0ASCHOOL+PROGRAMS%0D%0ACORPORATE+EVENTS%0D%0AWORKSHOPS%0D%0ASCOUT+PROGRAMS%0D%0AVACATION+BIBLE+SCHOOL</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedColor>4288256409</selectedColor>
+    </control>
+    <control controlID="BF298CCE-DCFF-43EB-B864-B799E398FA70" controlTypeID="Button" x="392" y="418" w="315" h="54" zOrder="14">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="7FE8B224-556F-475D-81A0-E074DE2FADAB" linkType="ltPageLink" isApplyIncludePage="False" title="Choose+1">
+          <area shape="0" alt="" ID="{5A49555F-ED5C-4640-BD53-C48AFFE84DED}" coords="(0,0,315,54)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>SCHEDULE+YOUR+EVENT+NOW!</text>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
